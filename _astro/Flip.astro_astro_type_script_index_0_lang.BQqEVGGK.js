@@ -1,0 +1,1 @@
+import{t as e}from"./gsap.CvDoa17S.js";import{t}from"./ScrollTrigger.CDDhF-DF.js";e.registerPlugin(t);var n=document.querySelector(`.flip-card`);n&&!matchMedia(`(prefers-reduced-motion: reduce)`).matches&&e.fromTo(n,{rotateY:-18,rotateX:8},{rotateY:198,rotateX:-4,ease:`none`,scrollTrigger:{trigger:`.flip-stage`,start:`top 70%`,end:`bottom 30%`,scrub:1}});

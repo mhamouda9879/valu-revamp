@@ -1,0 +1,1 @@
+import{t as e}from"./gsap.CvDoa17S.js";import{t}from"./ScrollTrigger.CDDhF-DF.js";e.registerPlugin(t),matchMedia(`(prefers-reduced-motion: reduce)`).matches||e.to(`.u-spin`,{rotate:360,ease:`none`,scrollTrigger:{trigger:`.u-marquee`,start:`top bottom`,end:`bottom top`,scrub:!0}});
